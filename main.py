@@ -36,8 +36,8 @@ text = st.text_input('あなたの趣味は？')
 '体調：',condition
 
 #if st.checkbox('Show Image'):
-img = Image.open('Moz.jpg')
-st.image(img, caption = 'Moz', use_column_width = True)
+# img = Image.open('Moz.jpg')
+# st.image(img, caption = 'Moz', use_column_width = True)
 
 
 
